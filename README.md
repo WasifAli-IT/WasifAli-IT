@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Wasif Ali 👋
 
-<!--
-**WasifAli-IT/WasifAli-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CIT Student | 💻 Aspiring Computer Science Student | 🇵🇰 Pakistan
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently completing a 3-year CIT diploma and building my
+skills in programming, software development, and computer science.
+
+I'm interested in:
+
+- 💻 Software Development
+- 🐍 Python
+- 🌐 Web Development
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🗄️ Databases
+
+## Currently Learning
+
+- Python
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- AI & Computer Vision
+
+## Projects
+
+I'm currently developing projects to strengthen my programming
+and problem-solving skills.
+
+More projects will be added as I continue learning and building.
+
+## My Goal
+
+My goal is to pursue a Bachelor's degree in Computer Science
+and continue developing my technical skills through practical
+projects and continuous learning.
+
+## Connect With Me
+
+- GitHub: [WasifAli-IT](https://github.com/WasifAli-IT)
